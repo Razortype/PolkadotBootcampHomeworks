@@ -57,4 +57,4 @@ match calculate(operation) {
 ```
 
 Terminal result
-![Alt text](../assets/image.png)
+![Alt text](../assets/week2.png)
